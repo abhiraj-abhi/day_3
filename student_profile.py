@@ -1,0 +1,11 @@
+name = input("Enter your Name: ")
+age = input("Enter your Age: ")
+college = input("Enter your College: ")
+branch = input("Enter your Branch: ")
+
+print("\n===== Student Profile =====")
+print("Name    :", name)
+print("Age     :", age)
+print("College :", college)
+print("Branch  :", branch)
+print("===========================")
